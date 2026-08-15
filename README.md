@@ -26,9 +26,8 @@ La aplicación consta de tres páginas principales, manejadas mediante enrutamie
 
 * **React (v18):** Biblioteca principal para la construcción de la interfaz de usuario.
 * **Vite:** Herramienta de construcción rápida y servidor de desarrollo.
-* **Redux Toolkit & React-Redux:** Para el manejo predecible del estado global (específicamente la lógica matemática y de almacenamiento del carrito de compras).
+* **Redux Toolkit & React-Redux:** Para el manejo predecible del estado global.
 * **React Router DOM:** Para la navegación fluida sin recargas de página.
-* **CSS3:** Para estilos, diseño responsivo y sistema de grillas (Grid/Flexbox).
 
 ## ⚙️ Instalación y Configuración Local
 
@@ -36,4 +35,4 @@ Si deseas ejecutar este proyecto en tu máquina local, sigue estos pasos:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[TU_USUARIO_DE_GITHUB]/paradise-nursery.git
+   git clone [https://github.com/ingdavid72/paradise-nursery.git](https://github.com/ingdavid72/paradise-nursery.git)
